@@ -328,7 +328,7 @@ MonoBehaviour:
   shootPoint: {fileID: 0}
   impactLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   damage: 10
   range: 100
   spread: 0
@@ -338,7 +338,7 @@ MonoBehaviour:
   ammoSize: 30
   bulletsPerTap: 1
   impactEffect: {fileID: 0}
-  shoting: 0
+  shooting: 0
   canShoot: 0
   reloading: 0
 --- !u!1 &5737680396588079090
